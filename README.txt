@@ -45,3 +45,4 @@ meal_id	Unique ID for the meal
 category	Type of meal (beverages/snacks/soups….)
 cuisine	Meal cuisine (Indian/Italian/…)
  
+Please feel free to contribute for improved predictions.
